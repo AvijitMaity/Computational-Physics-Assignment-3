@@ -26,7 +26,7 @@ int xmin,xmax,n,i,j,h,pi;
 double complex z1,z2,z3;                 
 FILE *fft;
 
-fft=fopen("akash.txt","w");         
+fft=fopen("Problem 2 data.txt","w");         
 
 xmin=-30;
 xmax=30;
