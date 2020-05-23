@@ -16,7 +16,7 @@ int xmin,xmax,n,i,j,h,pi;
 double complex z1,z2,z3;                 
 FILE *fft;
 
-fft=fopen("avijit.txt","w");         
+fft=fopen("Problem 4 data.txt","w");         
 
 xmin=-5;
 xmax=5;
